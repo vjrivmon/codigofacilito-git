@@ -1,4 +1,4 @@
 console.log("Hola mundo desde main.js");
-console.log ("Saludos mundo desde debian");
+console.log ("Adiós mundo desde debian");
 
 // Esto es un comentario
